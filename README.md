@@ -9,4 +9,4 @@
 5. How can you make your app accessible to people with disabilities such as blindness or colorblindness?
 - I used limited colors on this project, baically just plain white.
 6. If you could make further changes to your project to improve/expand the experience, what would they be and how would you go about implementing them?
-- I would add more routes to the dictionary, like when the user clicks the pokemon, the site will direct to a detailed page. The user can view things like where to encounter this Pokemon, the ablities of this Pokemon, and etc.s
+- I would add more routes to the dictionary, like when the user clicks the pokemon, the site will direct to a detailed page. The user can view things like where to encounter this Pokemon, the ablities of this Pokemon, and etc.
